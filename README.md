@@ -1,9 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=Computer+Science+student+%F0%9F%8E%93;Estudiant+d'Inform%C3%A0tica+%F0%9F%8E%93;Building+with+code+%C2%B7+Barcelona;Construint+amb+codi+%C2%B7+Barcelona;Turning+coffee+into+algorithms+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=650&lines=Junior+Software+Engineer;Enginyera+de+Software+Junior;Building+reliable+software+%C2%B7+Barcelona;Construint+programari+fiable+%C2%B7+Barcelona;Open+to+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-**Anna Haro** · CS student @ Barcelona
+**Anna Haro** · Junior Software Engineer · Barcelona
 
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-2ea44f?style=for-the-badge)](mailto:annaharo00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-haro-fern%C3%A1ndez-14003828b/)
 [![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annaharo00@gmail.com)
 [![Location](https://img.shields.io/badge/Barcelona-FC4C02?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -14,31 +15,24 @@
 
 ### About · Sobre mi
 
-```text
-while (coffee > 0) {
-  learn(algorithms);
-  build(projects);
-  debug(life);
-}
-```
+I'm a **Junior Software Engineer** based in **Barcelona**, with a degree in **Computer Science**. I build software across the stack — from client-server systems and mobile apps to ML pipelines and data analysis.
 
-I'm a **Computer Science student** based in **Barcelona**, passionate about turning ideas into working software — from low-level systems to machine learning pipelines.
+Sóc **Enginyera de Software Junior** a **Barcelona**, amb grau en **Informàtica**. Desenvolupo programari a tota la pila — des de sistemes client-servidor i apps mòbils fins a pipelines de machine learning i anàlisi de dades.
 
-Sóc **estudiant d'Informàtica** a **Barcelona**. M'agrada convertir idees en programari que funcioni — des de sistemes de baix nivell fins a pipelines de machine learning.
+I care about writing clean, maintainable code and shipping things that actually work. Currently **open to junior software engineering roles** — backend, full-stack, or ML-adjacent positions.
 
-When I'm not coding, you'll probably find me exploring the city, refilling my coffee cup, or debugging something that worked five minutes ago.
-
-Quan no estic programant, segur que em trobaràs explorant la ciutat, omplint el cafè o depurant alguna cosa que fa cinc minuts funcionava perfectament.
+M'importa escriure codi net i mantenible i lliurar productes que funcionin de veritat. Actualment **oberta a rols de software engineering junior** — backend, full-stack o posicions relacionades amb ML.
 
 ---
 
-### Currently · Ara mateix
+### Focus · Àrees d'interès
 
-| | |
-|---|---|
-| 🎓 **TFG** | Final degree project — ML & data science |
-| ☕ **Fuel** | Espresso, patience, and `print()` statements |
-| 📍 **Base** | Barcelona |
+| Area | What I bring |
+|------|----------------|
+| **Backend & systems** | Client-server architecture, networking, Java |
+| **Data & ML** | Python, Jupyter, data analysis (degree capstone) |
+| **Mobile** | Android development, Firebase integration |
+| **DevOps basics** | Docker, MySQL, version control |
 
 ---
 
@@ -55,8 +49,8 @@ Quan no estic programant, segur que em trobaràs explorant la ciutat, omplint el
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -64,13 +58,13 @@ Quan no estic programant, segur que em trobaràs explorant la ciutat, omplint el
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**TFG**](https://github.com/annaaaharo/TFG) | Final thesis — ML & data analysis | `Jupyter` `Python` |
-| [**client-server-battleship**](https://github.com/annaaaharo/client-server-battleship) | Networked Battleship game | `Java` |
-| [**App_TodosParaPerros**](https://github.com/annaaaharo/App_TodosParaPerros) | Android app for dog lovers | `Android` |
+| [**TFG**](https://github.com/annaaaharo/TFG) | Degree capstone — ML model development & data analysis | `Python` `Jupyter` |
+| [**client-server-battleship**](https://github.com/annaaaharo/client-server-battleship) | Multiplayer Battleship with client-server architecture | `Java` |
+| [**App_TodosParaPerros**](https://github.com/annaaaharo/App_TodosParaPerros) | Android app with Firebase backend | `Android` `Firebase` |
 
 ---
 
-### GitHub stats
+### GitHub activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annaaaharo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="165" alt="GitHub stats" />
@@ -91,8 +85,8 @@ Quan no estic programant, segur que em trobaràs explorant la ciutat, omplint el
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+**Let's connect** — [LinkedIn](https://www.linkedin.com/in/anna-haro-fern%C3%A1ndez-14003828b/) · [annaharo00@gmail.com](mailto:annaharo00@gmail.com)
 
-*"Primer resol el problema. Després escriu el codi."*
+*"First, solve the problem. Then, write the code."*
 
 </div>
