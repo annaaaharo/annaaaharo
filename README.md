@@ -1,17 +1,15 @@
+<div align="center">
 
-
-[Typing SVG](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FF69B4&center=true&vCenter=true&width=650&lines=Junior+Software+Engineer;Enginyera+de+Software+Junior;Building+reliable+software+%C2%B7+Barcelona;Construint+programari+fiable+%C2%B7+Barcelona;Open+to+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 **Anna Haro** · Junior Software Engineer · Barcelona
 
-[Open to work](mailto:annaharo00@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/anna-haro-fern%C3%A1ndez-14003828b/)
-[Email](mailto:annaharo00@gmail.com)
-[Location](#)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-FF69B4?style=for-the-badge&logoColor=white)](mailto:annaharo00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-haro-fern%C3%A1ndez-14003828b/)
+[![Email](https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annaharo00@gmail.com)
+[![Location](https://img.shields.io/badge/Barcelona-DB2777?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-
-
----
+</div>
 
 ### About · Sobre mi
 
@@ -85,17 +83,20 @@ M'importa escriure codi net i mantenible i lliurar productes que funcionin de ve
 
 ### GitHub activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annaaaharo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0a12&title_color=FF69B4&text_color=F9A8D4&icon_color=EC4899&border_color=831843" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annaaaharo&layout=compact&langs_count=6&hide_border=true&bg_color=1a0a12&title_color=FF69B4&text_color=F9A8D4&icon_color=EC4899&border_color=831843" height="165" alt="Top languages" />
+</div>
 
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annaaaharo&hide_border=true&background=1a0a12&stroke=831843&ring=EC4899&fire=FF69B4&currStreakNum=FF69B4&sideNums=F9A8D4&currStreakLabel=F9A8D4&sideLabels=F9A8D4&dates=DB2777" height="165" alt="GitHub streak" />
+</div>
 
 ---
 
 ### Contribution graph
 
-
-
----
+<img src="https://raw.githubusercontent.com/annaaaharo/annaaaharo/output/snake.svg" alt="Snake animation eating my GitHub contributions" />
 
 
 
